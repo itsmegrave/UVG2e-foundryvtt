@@ -1,0 +1,42 @@
+{
+  "id": "uvg2e",
+  "title": "Ultraviolet Grasslands and the Black City",
+  "description": "FoundryVTT System for Ultraviolet Grasslands and the Black City",
+  "authors": [
+    {
+      "name": "itsmegrave",
+      "discord": "itsmegrave"
+    }
+  ],
+  "url": "This is auto replaced",
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+  "readme": "https://github.com/itsmegrave/UVG2e-foundryvtt/README.md",
+  "bugs": "https://github.com/itsmegrave/UVG2e-foundryvtt/issues",
+  "version": "This is auto replaced",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "scripts": [],
+  "esmodules": ["module/uvg2e.js"],
+  "styles": ["styles/uvg2e.css"],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "relationships": {
+    "requires": [],
+    "conflicts": []
+  },
+  "socket": false,
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced",
+  "background": "<optionally a relative filepath to a background image to use for worlds created with this system>",
+  "initiative": "<inititative roll formula for your system>",
+  "primaryTokenAttribute": "<optionally the attribute to use as primary resource in tokens by default>",
+  "secondaryTokenAttribute": "<optionally the attribute to use as secondary resource in tokens by default>"
+}
