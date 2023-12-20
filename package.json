@@ -1,9 +1,9 @@
 {
   "private": true,
   "name": "uvg2e",
-  "description": "FoundryVTT System for Ultraviolet Grasslands and the Black City",
-  "license": "https://www.gnu.org/licenses/gpl-3.0.en.html",
-  "homepage": "<optionally the URL to your repository or another homepage>",
+  "description": "FoundryVTT System for Ultraviolet Grasslands and the Black City 2e",
+  "license": "./LICENSE",
+  "homepage": "https://github.com/itsmegrave/UVG2e-foundryvtt",
   "repository": {
     "type": "git",
     "url": "https://github.com/itsmegrave/UVG2e-foundryvtt"
