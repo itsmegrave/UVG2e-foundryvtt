@@ -4,9 +4,20 @@ SPDX-FileCopyrightText: 2022 Johannes Loher
 SPDX-License-Identifier: MIT
 -->
 
-# UVG2e
+# Ultraviolet Grasslands and the Black City 2e
+
+![GitHub License](https://img.shields.io/github/license/itsmegrave/uvg2e-foundryvtt?style=flat-square)
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/itsmegrave/uvg2e-foundryvtt/latest/total?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/itsmegrave/uvg2e-foundryvtt?style=flat-square)
+![Foundry](https://img.shields.io/badge/dynamic/json.svg?url=https://raw.githubusercontent.com/itsmegrave/uvg2e-foundryvtt/main/src/system.json&label=Foundry&query=$.compatibleCoreVersion&colorB=blue&style=flat-square)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O7KUBQY)
+
+<div align=center>
 
 ![UVG2e logo](./static/uvg-coral-icon.png)
+
+</div>
 
 Please add your description here.
 

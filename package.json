@@ -2,7 +2,7 @@
   "private": true,
   "name": "uvg2e",
   "description": "FoundryVTT System for Ultraviolet Grasslands and the Black City",
-  "license": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+  "license": "https://www.gnu.org/licenses/gpl-3.0.en.html",
   "homepage": "<optionally the URL to your repository or another homepage>",
   "repository": {
     "type": "git",
