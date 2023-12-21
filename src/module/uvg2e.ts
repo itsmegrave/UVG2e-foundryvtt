@@ -15,14 +15,26 @@
  */
 
 // Import TypeScript modules
+
 import { registerSettings } from './settings';
 import { preloadTemplates } from './preloadTemplates';
+import { UVG2e } from './config';
+import CharacterSheet from './sheets/CharacterSheet';
 
 // Initialize system
 Hooks.once('init', async () => {
-  console.log('uvg2e-foundryvtt | Initializing uvg2e-foundryvtt');
-
+  console.log(`${UVG2e.logPrefix} Initializing the UVG2e Game System\n${UVG2e.ASCII}`);
+  CONFIG.UVG2e = UVG2e;
   // Assign custom classes and constants here
+
+  CONFIG.Actor.documentClass = Actor;
+
+  // Actors.unregisterSheet('core', ActorSheet);
+  Actors.registerSheet('uvg2e', CharacterSheet, {
+    types: ['character'],
+    label: 'UVG2.CharacterSheet',
+    makeDefault: true,
+  });
 
   // Register custom system settings
   registerSettings();
@@ -31,6 +43,9 @@ Hooks.once('init', async () => {
   await preloadTemplates();
 
   // Register custom sheets (if any)
+
+  // Items.unregisterSheet('core', ItemSheet);
+  // Items.registerSheet('uvg2e', UVG2eItemSheet, { makeDefault: true });
 });
 
 // Setup system

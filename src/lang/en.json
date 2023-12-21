@@ -1,1 +1,35 @@
-{}
+{
+  "uvg2e": {
+    "sheet": {
+      "character": {
+        "title": "Hero of the UVG"
+      }
+    },
+    "attributes": {
+      "strength": {
+        "label": "Strength",
+        "abbreviation": "str"
+      },
+      "endurance": {
+        "label": "Endurance",
+        "abbreviation": "end"
+      },
+      "agility": {
+        "label": "Agility",
+        "abbreviation": "agi"
+      },
+      "charisma": {
+        "label": "Charisma",
+        "abbreviation": "cha"
+      },
+      "aura": {
+        "label": "Aura",
+        "abbreviation": "aur"
+      },
+      "thought": {
+        "label": "Thought",
+        "abbreviation": "tho"
+      }
+    }
+  }
+}

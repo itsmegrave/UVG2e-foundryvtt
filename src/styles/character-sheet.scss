@@ -1,0 +1,33 @@
+.character-sheet {
+  .window-content {
+    background: $secondary-color;
+  }
+
+  .character-sheet-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1rem;
+    height: 3rem;
+    background-color: $primary-accent;
+    color: $secondary-color;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+
+  .character-sheet-body {
+    padding: 1rem;
+  }
+
+  .character-sheet-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1rem;
+    height: 3rem;
+    background-color: #333;
+    color: $secondary-color;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+}

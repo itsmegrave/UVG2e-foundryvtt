@@ -19,8 +19,13 @@ SPDX-License-Identifier: MIT
 
 </div>
 
-Please add your description here.
+> "Fair hero, the end, the end alone awaits all travelers and at the end...was the journey all in vain? All journeys end in vanity. In vanity." - Mused the Grand Observer at the end of time.
 
+Welcome to **The Ultraviolet Grasslands**, the roleplaying game of heroes on a strange trip through mythic steppes in search of lost time, broken space, and deep riffs.
+
+**The Ultraviolet Grasslands and the Black City**  is a tabletop role-playing game book, half setting, half adventure, and half epic trip; inspired by psychedelic heavy metal, the Dying Earth genre, and classic Oregon Trail games. It leads a group of ‘heroes’ into the depths of a vast and mythic steppe filled with the detritus of time and space and fuzzy riffs.
+
+You can grab a copy here [Ultraviolet Grasslands and the Black City](https://www.exaltedfuneral.com/products/uvg-2e)
 ## Installation
 
 Please add your installation instructions here.
